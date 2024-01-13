@@ -1,0 +1,48 @@
+T: 11, Fallo de CACHE 1, ADDR 22E
+ Label 4 linea 02 palabra 0E bloque 22 
+Cargando el bloque 22 en la linea 02 
+T: 22, Fallo de CACHE 2, ADDR 434
+ Label 8 linea 03 palabra 04 bloque 43 
+Cargando el bloque 43 en la linea 03 
+T: 23, Acierto de CACHE 1, ADDR 430
+, Label 8, linea 03, palabra 00, DATO 64 
+T: 34, Fallo de CACHE 3, ADDR 598
+ Label B linea 01 palabra 08 bloque 59 
+Cargando el bloque 59 en la linea 01 
+T: 35, Acierto de CACHE 2, ADDR 595
+, Label B, linea 01, palabra 05, DATO 6E 
+T: 36, Acierto de CACHE 3, ADDR 596
+, Label B, linea 01, palabra 06, DATO 61 
+T: 47, Fallo de CACHE 4, ADDR C77
+ Label 18 linea 07 palabra 07 bloque C7 
+Cargando el bloque C7 en la linea 07 
+T: 58, Fallo de CACHE 5, ADDR B09
+ Label 16 linea 00 palabra 09 bloque B0 
+Cargando el bloque B0 en la linea 00 
+T: 69, Fallo de CACHE 6, ADDR 63A
+ Label C linea 03 palabra 0A bloque 63 
+Cargando el bloque 63 en la linea 03 
+T: 80, Fallo de CACHE 7, ADDR FC4
+ Label 1F linea 04 palabra 04 bloque FC 
+Cargando el bloque FC en la linea 04 
+T: 91, Fallo de CACHE 8, ADDR 81C
+ Label 10 linea 01 palabra 0C bloque 81 
+Cargando el bloque 81 en la linea 01 
+T: 92, Acierto de CACHE 4, ADDR FC0
+, Label 1F, linea 04, palabra 00, DATO 6E 
+T: 93, Acierto de CACHE 5, ADDR 062
+, Label 0, linea 06, palabra 02, DATO 23 
+T: 94, Acierto de CACHE 6, ADDR FC6
+, Label 1F, linea 04, palabra 06, DATO 50 
+
+ETQ: 16 	Data  61  6d  74  6e  72  65  72  20  20  68  6d  63  72  6c  6e  65 
+ETQ: 10 	Data  6f  65  20  75  6c  68  69  20  6f  20  69  69  73  65  64  6e 
+ETQ: 04 	Data  63  6f  6e  70  61  68  69  20  61  61  69  6c  20  20  74  43 
+ETQ: 0C 	Data  6f  20  63  62  20  6d  63  6f  65  69  64  6e  63  74  6e  75 
+ETQ: 1F 	Data  65  70  70  6e  69  65  68  63  6c  50  75  6c  61  69  68  6e 
+ETQ: 00 	Data  23  23  23  23  23  23  23  23  23  23  23  23  23  23  23  23 
+ETQ: 00 	Data  23  23  23  23  23  23  23  23  23  23  23  23  23  23  23  23 
+ETQ: 18 	Data  74  69  6d  20  74  63  75  20  20  69  69  6d  75  69  69  72 
+
+Accesos totales: 14, Fallos: 8, Tiempo medio: 8.642000 ms 
+Texto leido: otdina rmlun#P 
